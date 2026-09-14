@@ -1,0 +1,3 @@
+
+
+![[Sine Ring.png]]

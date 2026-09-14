@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "de803efa3f50d247",
+    "type": "split",
+    "children": [
+      {
+        "id": "37bb58b405a3a464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0327c830dd54879d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pippenger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pippenger"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54861c5527329b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1db257fc73470f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8824e940745a37b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43f45cbbb4663cd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f11c3aa71509da8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc20342e1c720359",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeabdedabfb5df0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6303170e96df7965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Newdawn Sodality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "943cb4cde233a4c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Newdawn Sodality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b0818406f8b13af6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ed6cfeecc8adf5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4283ce5ae3c22968",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Newdawn Sodality.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0327c830dd54879d",
+  "lastOpenFiles": [
+    "Logo's/Barsalou Circle.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 07_58_51 PM.png",
+    "OmniTech.md",
+    "Pippenger.md",
+    "Logo's/Pippenger.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 07_50_28 PM.png",
+    "Messia.md",
+    "Logo's/Omnitech.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 07_35_38 PM.png",
+    "Kehl Association.md",
+    "Logo's/Messia.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 06_58_05 PM.png",
+    "Logo's/Kehl Association.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 06_25_06 PM.png",
+    "Hisserich Outfit.md",
+    "Logo's/Hisserich Outfit.png",
+    "Orrego Transit.md",
+    "Neogen.md",
+    "Konwinski.md",
+    "Konwinski Pharma.md",
+    "Lambrianou.md",
+    "Meteor Clan.md",
+    "Panstellar Multistellar.md",
+    "United Colonies Security Authority.md",
+    "Ball Union.md",
+    "Overwatch Pact.md",
+    "Magnus.md",
+    "Kazemi.md",
+    "Imani Corperation.md",
+    "Hsiang Systems.md",
+    "Hsiang Enterprises.md",
+    "Popotas Society.md",
+    "Raif Organization.md",
+    "Savvides Enterprises.md",
+    "Sbokos.md",
+    "Shogun.md",
+    "Logo's"
+  ]
+}
