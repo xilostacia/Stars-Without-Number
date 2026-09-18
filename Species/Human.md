@@ -1,0 +1,18 @@
+- Humans are by far the most numerous and politically dominant sophont species in known space.
+- The current era is roughly the **32nd to 33rd century**.
+- Earth still exists, remains inhabited, and is culturally and politically important, but is no longer the demographic or industrial center of humanity.
+- Humanity spread off Earth over centuries because of ecological strain, population pressure, resource demand, and the increasing practicality of offworld settlement.
+- Most humans live on planets or moons that can support life to some degree. Others live in orbital habitats, asteroid settlements, stations, ships, and deep-space installations.
+- Humans remain one species, but long-term gravity differences create visible variation. Low-gravity populations tend taller and lighter, high-gravity populations shorter and denser, and long-established spacers can become extremely tall and thin.
+- These differences are treated as environmental or regional human variation, not separate species.
+- There is no unified human government. Human space contains nations, alliances, colonies, independent worlds, corporate territories, frontier settlements, criminal networks, and private security powers.
+- Major Earth cultures and successor states remain important, including Russian, Japanese, Chinese, American, British, Australian, and Arabic-speaking powers and populations.
+- Corporations are enormously influential but have not replaced governments. Major companies can rival smaller states in wealth, infrastructure, and reach.
+- Human expansion depends on **interstellar relay routes**. Ships cannot simply jump to any star they choose.
+- Relay access creates trade corridors, chokepoints, isolated systems, strategic worlds, tolls, border controls, and piracy.
+- Human space ranges from old, heavily developed core systems to tiny frontier settlements with only a few thousand people.
+- Frontier life often has a strong **wild-west character**: independent crews, local law, corporate pressure, mining settlements, isolated colonies, smugglers, and long distances from central authority.
+- Aliens are known but remain rare. Most humans can identify several major species without ever personally meeting one.
+- First contact with a previously unknown intelligent species is still possible and remains an extraordinary event.
+- Human technology is advanced but generally understandable and practical. Alien technology is often significantly stranger, more advanced, or difficult to reproduce.
+- Humanity's first major successful uplift species is the Githiaskio, created by Neogen roughly two centuries ago.
