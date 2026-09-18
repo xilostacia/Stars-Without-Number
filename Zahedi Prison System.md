@@ -1,3 +1,0 @@
-
-
-![[Zahedi Prison System.png]]

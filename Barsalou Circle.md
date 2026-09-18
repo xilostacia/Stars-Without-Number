@@ -1,4 +1,0 @@
-
-
-![[Barsalou Circle.png]]
-

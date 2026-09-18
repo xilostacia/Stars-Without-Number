@@ -1,3 +1,0 @@
-
-
-![[Batran Combine.png]]

@@ -1,3 +1,0 @@
-
-
-![[Frontier Zaibatsu.png]]

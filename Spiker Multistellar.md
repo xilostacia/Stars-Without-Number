@@ -1,3 +1,0 @@
-
-
-![[Spiker Multistellar.png]]

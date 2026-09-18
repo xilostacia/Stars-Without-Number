@@ -1,3 +1,0 @@
-
-
-![[Henchoz Combine.png]]

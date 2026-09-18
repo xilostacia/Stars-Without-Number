@@ -1,3 +1,0 @@
-
-
-![[Fazal-mahmood Outfit.png]]

@@ -1,3 +1,0 @@
-
-
-![[Overwatch Pact.png]]

@@ -1,3 +1,0 @@
-	
-
-![[Ball Union.png]]

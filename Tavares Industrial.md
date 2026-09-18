@@ -1,3 +1,0 @@
-
-
-![[Tavares Industrial.png]]

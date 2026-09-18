@@ -1,3 +1,0 @@
-
-
-![[Popotas Society.png]]

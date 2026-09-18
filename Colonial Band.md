@@ -1,3 +1,0 @@
-
-
-![[Colonial Band.png]]

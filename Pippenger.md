@@ -1,4 +1,0 @@
-
-
-
-![[Pippenger.png]]

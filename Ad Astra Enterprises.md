@@ -1,4 +1,0 @@
-
-![[Ad Astra Enterprises.png]]
-
-

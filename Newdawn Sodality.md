@@ -1,3 +1,0 @@
-
-
-![[Newdawn Sodality.png]]

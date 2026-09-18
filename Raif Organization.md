@@ -1,3 +1,0 @@
-
-
-![[Raif Organization.png]]

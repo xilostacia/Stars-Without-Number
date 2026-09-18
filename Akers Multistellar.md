@@ -1,3 +1,0 @@
-
-
-![[Akers Multistellar.png]]

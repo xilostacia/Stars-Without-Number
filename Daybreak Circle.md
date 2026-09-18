@@ -1,3 +1,0 @@
-
-
-![[Daybreak Circle.png]]

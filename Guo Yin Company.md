@@ -1,3 +1,0 @@
-
-
-![[Guo Yin Company.png]]

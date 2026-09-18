@@ -1,3 +1,0 @@
-
-
-![[Sunbeam Alliance.png]]

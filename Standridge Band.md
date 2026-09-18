@@ -1,3 +1,0 @@
-
-
-![[Standridge Band.png]]

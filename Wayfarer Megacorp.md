@@ -1,4 +1,0 @@
-
-
-
-![[Wayfarer Megacorp.png]]

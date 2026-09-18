@@ -1,3 +1,0 @@
-
-
-![[Rimward Extraction.png]]

@@ -1,3 +1,0 @@
-
-
-![[Hassan Industries.png]]

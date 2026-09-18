@@ -1,3 +1,0 @@
-
-
-![[Couloumbis Alliance.png]]
