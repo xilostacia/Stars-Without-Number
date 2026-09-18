@@ -5,4 +5,4 @@
 - Ancient human descriptions of **Cynocephali**, the legendary dog-headed peoples of Africa and Asia, originated at least partly from genuine encounters with Kynari.
 - Later stories of werewolves and other canine humanoids may have absorbed fragments of those older encounters, although not every such myth has an alien explanation.
 - Kynari also have a long and often ugly history with the Aezorgh, including conquest, enslavement, and forced displacement of Aezorgh populations.
-- They are now a widely recognized playable alien species rather than mysterious visitors.
+- They are a playable alien species.

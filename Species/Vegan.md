@@ -6,4 +6,4 @@
 - They can rear into a hunched bipedal posture when they need their forward limbs for fine manipulation, explaining the strange upright posture often associated with them.
 - Their feeding and respiratory anatomy is positioned around a body plan that originally evolved horizontally, making the quadrupedal stance considerably more natural than constant bipedal movement.
 - They come from a lower-gravity environment and have a lighter build than humans.
-- Playable, established, and unmistakably extraterrestrial.
+- Playable.

@@ -6,4 +6,4 @@
 - They were also connected directly to the construction or purpose of the pyramids. The "aliens built the pyramids" story is, inconveniently, substantially true in this setting.
 - The occupation ultimately failed. Their expedition was isolated, could not indefinitely replace losses or equipment, and **humans eventually killed the remaining Raukha on Earth**.
 - Modern Raukha know what happened. Earth consequently occupies a rather unusual place in their history.
-- They are playable and much more common in modern interstellar civilization than the surviving myths would suggest.
+- They are playable.

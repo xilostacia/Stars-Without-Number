@@ -4,4 +4,4 @@
 - Human **jump/relay technology ultimately derives in part from Roswell technology**, although modern human systems are not simple copies.
 - Roswells remain technologically ahead of humanity, particularly in areas such as gravity, materials, medicine, genetics, sensors, and neural technology.
 - Their resemblance to centuries of human "Grey alien" stories is not coincidence. Some historical UFO encounters may have involved actual Roswells.
-- They are a known, communicating species in the modern era, though still relatively uncommon in human space.
+- They are playable

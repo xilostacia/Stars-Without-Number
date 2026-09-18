@@ -86,5 +86,3 @@ Young adults travelling away from their bands are particularly common among thos
 Aezorgh are fully suitable as player characters.
 
 They are physically weaker than most humans but considerably more dexterous, with excellent awareness and unusually high potential intelligence. Their four arms and adhesive climbing adaptations make them particularly distinctive in exploration, technical work, infiltration, and zero-gravity environments. Traveller's published rules represent this through high Dexterity and Intelligence, four usable arms, infrared perception, enhanced situational awareness, and unrestricted movement across walls and ceilings under normal gravity.
-
-Unlike the [[Chorus]], there is nothing fundamentally preventing an Aezorgh from becoming a normal member of a mixed-species crew. "Normal" remains relative.
