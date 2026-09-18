@@ -14,4 +14,4 @@ Trade security is another major part of U.C.S.A. operations. Inspection teams, e
 
 U.C.S.A. forces routinely conduct **joint exercises and rotational patrol deployments**, allowing military units from different member governments to operate under common procedures. Its scale also gives the organization the logistical capacity to sustain prolonged operations across several systems rather than merely responding to isolated incidents.
 
-The U.C.S.A. has become the primary collective opponent of [[Shogun]], whose expansionist military operations have brought the two powers into direct conflict. It also conducts continuing security operations against criminal organizations such as [[SpaceGang]], although such groups are treated as law-enforcement and security problems rather than peer military powers.
+The U.C.S.A. has become the primary collective opponent of [[Shogun]], whose expansionist military operations have brought the two powers into direct conflict. It also conducts continuing security operations against criminal organizations such as [[Spacegang]], although such groups are treated as law-enforcement and security problems rather than peer military powers.

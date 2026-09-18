@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governments/Sunbeam Alliance.md",
+                "file": "Organizations/Agriculture & Food/Ball Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunbeam Alliance"
+              "title": "Ball Union"
+            }
+          },
+          {
+            "id": "b6e2671b39c8261f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Defense, Security & Military Industry/Hsiang Enterprises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hsiang Enterprises"
+            }
+          },
+          {
+            "id": "4062d9354ee14110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Infrastructure, Habitats & Construction/Newdawn Sodality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Newdawn Sodality"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,46 +219,51 @@
   },
   "active": "8824e940745a37b7",
   "lastOpenFiles": [
-    "Governments/Overwatch Pact.md",
-    "Governments/United Colonies Security Authority.md",
-    "Places/Arctis.md",
-    "Corperations/Daybreak Circle.md",
-    "aaaaaaaaaaaaaa.md",
-    "Places/Solera.md",
-    "Places/Selens.md",
-    "Places/Veyra.md",
-    "Places/Orion Spur.md",
-    "Places/Kaelos.md",
-    "Places/Eldrin.md",
-    "Places/Seyria.md",
-    "Places/Neshar.md",
-    "Places/Selene.md",
-    "Places/Tirn.md",
-    "Places/Kestrel Station.md",
-    "Places/Helios Gate.md",
-    "Places/Central Command.md",
-    "Places/Sol System.md",
-    "Places/Atlantis Orbital Port.md",
-    "Places/Sector B.md",
-    "Places/The Fringe.md",
-    "Places/Kellog System.md",
-    "Places/Tarn Belt.md",
-    "Places/Vexis Reach.md",
-    "Places/Dalton Expanse.md",
-    "Logo's/Daybreak Circle.png",
+    "Logos",
+    "Untitled 1.md",
+    "Organizations/Infrastructure, Habitats & Construction/Newdawn Sodality.md",
+    "Organizations/Defense, Security & Military Industry/Kazemi.md",
+    "Organizations/Entertainment, Hospitality & Luxury/Sbokos.md",
+    "Organizations/Entertainment, Hospitality & Luxury/Stella.md",
+    "Organizations/Entertainment, Hospitality & Luxury/Tsouderos.md",
+    "Organizations/Entertainment, Hospitality & Luxury",
+    "Corperations/Untitled.md",
+    "Organizations/Science, Technology & Data/OmniTech.md",
+    "Organizations/Science, Technology & Data/Compass Group.md",
+    "Organizations/Science, Technology & Data",
+    "Organizations/Resources, Mining & Salvage/Kehl Association.md",
+    "Organizations/Transportation, Shipping & Logistics",
+    "Organizations/Science, Technology & Data/Hisserich Outfit.md",
+    "Organizations/Infrastructure, Habitats & Construction/Savvides Enterprises.md",
+    "Organizations/Resources, Mining & Salvage",
+    "Organizations/Infrastructure, Habitats & Construction/Wayfarer Megacorp.md",
+    "Organizations/Infrastructure, Habitats & Construction/Akers Multistellar.md",
+    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing/Terra Prime Unity.md",
+    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing/Hassan Industries.md",
+    "Organizations/Infrastructure, Habitats & Construction",
+    "Organizations/Defense, Security & Military Industry/Magnus.md",
+    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing",
+    "Organizations/Defense, Security & Military Industry/Imani Corporation.md",
+    "Organizations/Defense, Security & Military Industry/Hsiang Systems.md",
+    "Organizations/Defense, Security & Military Industry/Hsiang Enterprises.md",
+    "Organizations/Defense, Security & Military Industry/Fazal-mahmood Outfit.md",
+    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing/Ad Astra Enterprises.md",
+    "Organizations/Agriculture & Food/Panstellar Multistellar.md",
+    "Organizations/Defense, Security & Military Industry",
+    "Organizations/Biotechnology, Medicine & Cybernetics",
+    "Organizations/Agriculture & Food/Ball Union.md",
+    "Organizations/Agriculture & Food/Batran Combine.md",
+    "Organizations/Agriculture & Food",
+    "Webpages/Daybreak Circle.png",
     "Logo's/ChatGPT Image Sep 17, 2026, 03_34_40 PM.png",
-    "Criminal Organizations",
-    "Places",
-    "Governments",
-    "Corperations",
-    "Logo's/Barsalou Circle.png",
+    "Organizations/Criminal Organizations",
+    "Webpages/Barsalou Circle.png",
     "Logo's/ChatGPT Image Sep 13, 2026, 07_58_51 PM.png",
-    "Logo's/Pippenger.png",
+    "Webpages/Pippenger.png",
     "Logo's/ChatGPT Image Sep 13, 2026, 07_50_28 PM.png",
-    "Logo's/Omnitech.png",
+    "Webpages/Omnitech.png",
     "Logo's/ChatGPT Image Sep 13, 2026, 07_35_38 PM.png",
-    "Logo's/Messia.png",
-    "Logo's/ChatGPT Image Sep 13, 2026, 06_58_05 PM.png",
-    "Logo's"
+    "Webpages/Messia.png",
+    "Logo's/ChatGPT Image Sep 13, 2026, 06_58_05 PM.png"
   ]
 }
