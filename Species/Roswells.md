@@ -1,0 +1,7 @@
+- Commonly called **Greys** by humans. "Roswell" became the more formal human name for the species because of their connection to the 1947 Roswell incident.
+- A real Roswell craft came down on Earth in 1947. The event was significant in Roswell history as well as human history.
+- Humanity spent centuries studying recovered technology before understanding enough of it to reproduce even basic principles.
+- Human **jump/relay technology ultimately derives in part from Roswell technology**, although modern human systems are not simple copies.
+- Roswells remain technologically ahead of humanity, particularly in areas such as gravity, materials, medicine, genetics, sensors, and neural technology.
+- Their resemblance to centuries of human "Grey alien" stories is not coincidence. Some historical UFO encounters may have involved actual Roswells.
+- They are a known, communicating species in the modern era, though still relatively uncommon in human space.

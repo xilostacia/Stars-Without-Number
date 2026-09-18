@@ -1,0 +1,7 @@
+- Large, herd-oriented extraterrestrial sophonts based closely on Traveller's **K'kree**.
+- Evolved as a prey species and retain extremely strong social and herd instincts.
+- Isolation is deeply uncomfortable to them, and their ships and settlements are designed around communal living.
+- Strongly herbivorous and intensely hostile toward predation and carnivorous behavior.
+- Their hatred of predators is particularly focused on the G'naak, with whom they share an ancient evolutionary and civilizational history.
+- K'kree and G'naak possess enough physical similarities that humans can immediately see they evolved within the same broad biological environment.
+- Known to humanity but **not intended as a playable species**.

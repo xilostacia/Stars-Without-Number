@@ -1,0 +1,8 @@
+- Extremely rare **colony-organism sophonts**. What appears to be one creature is actually a vast collection of smaller organisms functioning together.
+- Their bodies can redistribute themselves and may not possess a permanent anatomy in the way humans understand it.
+- Chorus are clearly intelligent, but **no one has successfully established meaningful communication with them**.
+- They appear completely nonhostile as far as anyone knows.
+- Individual Chorus occasionally wander onto stations or ships, travel with them for hours, days, or multiple stops, and then simply leave.
+- They appear to understand things such as airlocks, queues, ships, danger, and other intelligent behavior, but usually ignore attempts at communication.
+- Spacer etiquette is generally to **leave them alone and let them go where they want**.
+- Nobody is certain why they travel, what they want, whether each Chorus is actually an individual, or what their civilization looks like.

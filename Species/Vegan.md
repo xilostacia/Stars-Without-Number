@@ -1,0 +1,9 @@
+- Their actual species name is **Vh'khlrr-aathei'rral-taikhvarei-vrrakh'tel**.
+- Humans almost universally call them **Vegans** because their homeworld's shortened human name is Vega.
+- The fact that they are also naturally **obligate herbivores** turned the name into an immediate human joke. The species eventually accepted that humans were never going to stop calling them Vegans.
+- They are deliberately one of the more **genuinely alien-looking playable species**, retaining much of the unusual Traveller Vegan physiology rather than being humanoids with cosmetic differences.
+- Their body is naturally carried forward and they normally move **quadrupedally**.
+- They can rear into a hunched bipedal posture when they need their forward limbs for fine manipulation, explaining the strange upright posture often associated with them.
+- Their feeding and respiratory anatomy is positioned around a body plan that originally evolved horizontally, making the quadrupedal stance considerably more natural than constant bipedal movement.
+- They come from a lower-gravity environment and have a lighter build than humans.
+- Playable, established, and unmistakably extraterrestrial.

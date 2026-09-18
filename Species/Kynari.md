@@ -1,0 +1,8 @@
+- Canid extraterrestrial sophonts based mechanically and biologically on Traveller's **Vargr**.
+- **Kynari** is pronounced with a hard K. **Khyn** is a common shortened form and intentionally sounds somewhat like "canine."
+- They made scattered visits to Earth long before humanity developed interstellar travel.
+- Unlike the Raukha occupation, there was no single major Kynari conquest of Earth. Contacts occurred sporadically through explorers, stranded crews, small expeditions, mercenaries, or temporary settlements.
+- Ancient human descriptions of **Cynocephali**, the legendary dog-headed peoples of Africa and Asia, originated at least partly from genuine encounters with Kynari.
+- Later stories of werewolves and other canine humanoids may have absorbed fragments of those older encounters, although not every such myth has an alien explanation.
+- Kynari also have a long and often ugly history with the Aezorgh, including conquest, enslavement, and forced displacement of Aezorgh populations.
+- They are now a widely recognized playable alien species rather than mysterious visitors.
