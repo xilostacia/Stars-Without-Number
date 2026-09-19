@@ -1,3 +1,5 @@
+![[Githiaskio.png]]
+
 The **Githiaskio** are a sapient uplift species descended from terrestrial octopuses and created through the biotechnology programs of [[Neogen]] roughly two centuries ago. They are not extraterrestrial life, though they are often casually grouped with alien species due to their appearance, physiology, and relative rarity. They are humanity's first and, so far, only widely recognized successful uplift. Unlike many speculative uplift projects, the Githiaskio were not redesigned to resemble humans. They remain unmistakably cephalopods, with eight flexible limbs, soft bodies, distributed nervous systems, exceptional camouflage, and an entirely aquatic physiology.
 
 ## Origin
@@ -116,3 +118,22 @@ Their eight limbs, distributed nervous system, excellent spatial awareness, camo
 Githiaskio characters are culturally diverse. They are a young species whose civilization developed within human space, so they can plausibly come from independent Githiaskio communities, mixed human settlements, corporate habitats, research institutions, ships, or frontier colonies.
 
 Their most significant practical limitation is environmental dependence. Damage to an aquatic suit or loss of access to breathable water can become a serious emergency, making life-support equipment considerably more important to a Githiaskio character than it is to most humans.
+
+
+---
+## Full Rules:
+JTAS Volume 2 (Do not own)
+
+Characteristics
+All characteristics are determined as described on page 8 of the Traveller Core Rulebook.
+
+Traits
+All Githiaskio Travellers possess the following traits:
+
+Highly Agile: In zero-g conditions and when underwater, Githiaskio gain DM+3 to all actions concerning movement, agility, fitting through narrow spaces and any other situation where their unique physiology gives them an advantage.
+
+Multi-limbed (4): In water or microgravity, Githiaskio can use two tentacles to maintain handholds or to facilitate movement, leaving four free to carry out other tasks.
+
+Multi-Attack (3): In unarmed combat, up to three tentacles can be used to strike each round.
+
+Natural Weapons (Tentacle strike 1D-1 unarmed): This equates to three Melee (unarmed) attacks each dealing 1D-1 damage.

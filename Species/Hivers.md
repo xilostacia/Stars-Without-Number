@@ -1,3 +1,5 @@
+![[Hiver.png]]
+
 The **Hivers** are one of the best-known extraterrestrial civilizations encountered by humanity and among the least humanoid. Their bodies, reproduction, language, social organization, and even basic assumptions about leadership differ dramatically from human norms. Despite the human name, Hivers are **not a hive mind**. Every Hiver is a distinct individual with its own personality, interests, relationships, and ambitions. The name originated from early human attempts to describe their communal nests and highly cooperative society and has remained in common use ever since.
 
 Hivers are intensely curious, technologically sophisticated, and particularly famous for two things: **robotics** and **Manipulation**.
@@ -117,3 +119,36 @@ Their physiology makes them well suited to technical work, robotics, science, en
 Hiver characters are not required to be Manipulators, scientists, or roboticists. Those are major parts of Hiver civilization, not mandatory personalities. A player Hiver might be a merchant, explorer, pilot, doctor, criminal, technician, academic, or simply an unusually curious individual who has chosen to spend time among other species.
 
 Their largest challenge is usually cultural rather than environmental. Hivers can survive comfortably in most human habitats, but their silent body language, unusual social instincts, decentralized view of authority, and casual acceptance of Manipulation can create significant misunderstandings with human crews.
+
+
+---
+## Full Rules:
+
+MgT 2E - Aliens of Charted Space Vol.2 pg 356
+
+**CREATING A HIVER TRAVELLER**
+
+Creating a Hiver Traveller is generally similar to other races, except that there is no formal rank structure in Hiver society. Hivers have no equivalent of SOC, but instead use a characteristic named Resolve (RES). Most characteristics are rolled on 2D, but Hiver Travellers roll Resolve on 1D+6.
+
+The following modifiers apply to all Hivers: STR -2 Resolve (RES)
+
+The Resolve characteristic is a measure of the Hiver’s will, intellect and desire to get its own way. It is linked to curiosity in some ways, and might be considered an enabler. That is, a Hiver who is highly curious but timid will not learn much; one who has big plans and good manipulation skills but lacks conviction will never achieve much. A Hiver with a low Resolve tends to be a conformist, a good and dependable member of society who will cooperate with others for the common good and does not try to use others as pawns all that much – in other words the sort of person manipulators like to make use of. A Resolve score of 7+ indicates that the Hiver has sufficient conviction to undertake significant manipulations – though whether it has the finesse to carry them off is another matter.
+
+**Deficiency Diseases**
+Whilst being debilitated by disease is not the epitome of free-wheeling interstellar adventure, it is a factor in the lives of Hiver Travellers. It can be assumed that when a Hiver is in a civilised environment with a wide range of foodstuffs available it will be able to obtain what it needs for a proper diet, even if the people selling it do not imagine anyone would eat that stuff. However, when a Hiver is operating in the wilds or on a backwater planet – or in a closed environment like a starship where care has not been taken to ensure correct food is available, an imbalance or shortage may become serious.
+
+Every 2D days without a guaranteed correct diet, a Hiver must make an Average (8+) END check. If this is unsuccessful, negative Effect must be subtracted from one of the Hiver’s six characteristics, selected at random. A deficiency disease can affect cognitive ability or physical capabilities, or both. Once deterioration has begun it continues until the disease is treated. Every 2D days, the Hiver loses 1D from one of its characteristics chosen at random. Treatment requires restoring a proper balance of nutrients and some supportive medical care. Every 1D days with a proper diet the Hiver regains the Effect of an Average (8+) Medic check or a minimum of 1 point from the worst affected of its characteristics. If any characteristic reaches zero as a result of deficiency disease the Hiver is incapacitated. It loses 1 point from each characteristic until all are at zero, at which point it dies.
+
+**Hiver Traits**
+Hiver Travellers all have the following Traits.
+
+**Hiver Physiology:** Hivers gain a +2 DM on all checks to resist disease or chemical toxins, and have a natural 2 points of armour from their leathery skin. Hivers can regrow small parts of their body - fingers, sections of skin or even organs, but not eyes or ears – even if completely severed. If a Hiver takes enough damage to kill it – STR, DEX and END all reduced to zero, it becomes dormant rather than dying. The Hiver can take additional damage up to its END before actually dying. If it is not killed, it begins to regenerate negative END at the rate of 1D3 points per hour. When END reaches 0, STR, DEX and END are reset to 1 and the Hiver can begin to function again. If a Hiver’s END is reduced to a level worse than its negative END, it dies. Hivers are prone to deficiency diseases and must maintain a correct diet. If the proper balance of nutrients is not available for 2D days, the Hiver may become ill. See Deficiency Diseases, above.
+
+**Physical Coward**: Hivers are frightened of physical violence and aggression. If a Hiver is attacked at a range of 25m or less, or feels threatened by such an attack they must make an immediate Resolve (RES) check. This will usually be Average (8+) difficulty but may be modified by circumstances. If the Hiver fails the check it must immediately abandon what it is doing and make a defensive reaction. This may mean scuttling away to hide or seek cover, dashing behind a crewmate or simply cowering on the ground, but may not be an offensive action of any kind. If the check is passed the Hiver’s rational thoughts quell its instinctive fear and it may act normally, but suffers a -2DM on all actions made whilst under such a threat.
+
+**Sense of Smell/No Sense of Smell**: Most Hivers have no sense of smell, and receive the No Sense of Smell trait. They can taste ingested items and may faintly detect very strong odours through their cloaca but cannot detect smells through respiration. Irritants such as tear gas will still work on such Hivers, but they cannot be detected by sense of smell. On a straight 2D roll of 9+, made when the Hiver reaches maturity, the Hiver has a sense of smell. It is not very good by human standards, imposing a -2DM on attempts to detect or identify anything by smell alone.
+
+**Stability**: Hivers are relatively low to the ground and can use as many as six limbs to balance if necessary. Alternatively, Hivers can stand on some limbs and grasp nearby objects. In any situation where immobility is important, or where a Hiver must move under difficult conditions, a +2DM applies. Thus a Hiver moving across a slanted deck towards a hatch as the air rushes out of a holed compartment will generally fare better than a humanoid crewmate. One limb could be used to carry or drag something – or perhaps someone – whilst others provide traction and grip. The positive DM can be applied whilst climbing, providing holds are available suitable foe Hiver’s hand-equivalents.
+
+HIVER SKILLS
+Hivers can learn almost any skill that other races can. However, they cannot gain Leadership skill. If a Hiver wants people to do something it will manipulate them with deception, diplomacy or persuasion instead.

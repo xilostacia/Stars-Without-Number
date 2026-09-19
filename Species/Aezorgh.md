@@ -1,3 +1,6 @@
+![[Aezorgh.png]]
+
+
 The **Aezorgh** are a small hexapodal sophont species known throughout inhabited space for their dexterity, adaptability, climbing ability, and habit of turning up almost anywhere there is work, trade, machinery, or something interesting to get into. They are considerably smaller and physically weaker than humans, but compensate with exceptional coordination, four highly dexterous arms, excellent situational awareness, and an ability to move across walls and ceilings with unnerving ease.
 
 Aezorgh are a fully independent extraterrestrial species rather than an uplift or engineered people. Their modern population is widely dispersed, in large part because of a long history of enslavement and displacement by the canid species humanity currently knows under the provisional name [[Kynari]]. Today, Aezorgh can be found far beyond their original homeworld, particularly around ports, trade routes, frontier settlements, engineering communities, and regions historically influenced by their former masters. 
@@ -86,3 +89,23 @@ Young adults travelling away from their bands are particularly common among thos
 Aezorgh are fully suitable as player characters.
 
 They are physically weaker than most humans but considerably more dexterous, with excellent awareness and unusually high potential intelligence. Their four arms and adhesive climbing adaptations make them particularly distinctive in exploration, technical work, infiltration, and zero-gravity environments. Traveller's published rules represent this through high Dexterity and Intelligence, four usable arms, infrared perception, enhanced situational awareness, and unrestricted movement across walls and ceilings under normal gravity.
+
+---
+## Full Rules
+JTAS Volume 11 (Do Not Own)
+
+Characteristics
+Initial Aezorgh characteristics are rolled as: STR 1D, DEX 2D+3, END 1D+1, INT 2D+2, EDU 1D, SOC 1D. The maximum for DEX is 18 and INT is 16.
+
+Instead of standard background skill determination, all Aezorgh gain Athletics 0, Mechanic 0, Recon 0, Stealth 0 and one additional skill of their choice.
+
+Traits
+Aezorgh Travellers all possess the following traits:
+
+Aging (+4)
+
+Gecko Travel: Ridges on an Aezorgh’s feet and wrists allow the Traveller to climb walls at full movement speed and to cross ceilings at half movement speed in gravity up to 1.5 standard.
+
+Heightened Senses (IR 1): Wide infrared vision and innate situational awareness allow Aezorgh to receive DM+1 to Recon or Survival checks. If a heat source is present, the Aezorgh’s infrared vision negates any penalty for darkness.
+
+Multi-limbed (2): Aezorgh have four dexterous arms, allowing them to perform two sets of non-movement actions in any round without penalty. Aezorgh tentacle fingers are flexible enough to allow the use of tools and equipment designed for other species without penalty.

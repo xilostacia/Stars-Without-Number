@@ -7,3 +7,22 @@
 - The occupation ultimately failed. Their expedition was isolated, could not indefinitely replace losses or equipment, and **humans eventually killed the remaining Raukha on Earth**.
 - Modern Raukha know what happened. Earth consequently occupies a rather unusual place in their history.
 - They are playable.
+
+
+---
+## Full Rules:
+MgT 2E - Core Rulebook pg 51
+
+## Characteristics
+
+Raukha Travellers have the following modifiers applied to their characteristics:
+**STR +2, DEX -2**
+
+## Traits
+Raukha Travellers all possess the following traits.
+
+### Dewclaw
+All Raukha have a dewclaw which can be extended to make for a vicious close combat weapon. The dewclaw uses the **Melee (natural)** skill and does **1D+2 damage**.
+
+### Heightened Senses
+Raukha have better night vision, hearing and sense of smell than humans. All Raukha receive **DM+1 to any Recon and Survival checks** they have to make.
