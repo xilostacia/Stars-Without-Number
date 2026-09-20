@@ -110,16 +110,6 @@ A Githiaskio can display complicated emotional information across its skin witho
 ## Relations with Extraterrestrials
 The existence of the Githiaskio produces a peculiar reaction among genuinely extraterrestrial civilizations. To humanity, they are an extraordinary biotechnology achievement. To aliens, the more remarkable fact is often that humans intentionally created another sapient species only a few centuries after developing interstellar civilization. The [[Hivers]] have shown particular interest in Githiaskio development, both biologically and socially. Whether this attention is flattering or concerning depends on who is asked.
 
-## Playability
-Githiaskio are fully suitable as player characters, though they require more environmental support than most species. They breathe water rather than air, so a mixed-species crew must provide either flooded living quarters or a functioning aquatic mobility suit for extended time aboard human-designed ships and stations.
-
-Their eight limbs, distributed nervous system, excellent spatial awareness, camouflage abilities, and capacity for handling several physical tasks at once make them particularly effective technicians, pilots, scientists, salvagers, medics, engineers, and zero-gravity operators. Their physiology should provide meaningful advantages without treating each limb as a completely independent action.
-
-Githiaskio characters are culturally diverse. They are a young species whose civilization developed within human space, so they can plausibly come from independent Githiaskio communities, mixed human settlements, corporate habitats, research institutions, ships, or frontier colonies.
-
-Their most significant practical limitation is environmental dependence. Damage to an aquatic suit or loss of access to breathable water can become a serious emergency, making life-support equipment considerably more important to a Githiaskio character than it is to most humans.
-
-
 ---
 ## Full Rules:
 JTAS Volume 2 (Do not own)

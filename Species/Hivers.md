@@ -111,16 +111,6 @@ The larger obstacle is usually cultural. A human crewmember may eventually disco
 
 The human's reaction is considerably less predictable.
 
-## Playability
-Hivers are fully suitable as player characters, though their radically nonhuman anatomy requires some accommodation. Their radial body plan, multiple manipulatory limbs, and lack of natural speech mean that human-designed furniture, controls, clothing, and equipment may need modification or replacement. Most Hiver characters rely on electronic vocalizers or translation systems when dealing with species that communicate primarily through speech.
-
-Their physiology makes them well suited to technical work, robotics, science, engineering, investigation, diplomacy, and other roles that reward multitasking and broad situational awareness. Their multiple limbs allow them to handle several physical tasks efficiently, but this should not be treated as granting a full independent action for every limb.
-
-Hiver characters are not required to be Manipulators, scientists, or roboticists. Those are major parts of Hiver civilization, not mandatory personalities. A player Hiver might be a merchant, explorer, pilot, doctor, criminal, technician, academic, or simply an unusually curious individual who has chosen to spend time among other species.
-
-Their largest challenge is usually cultural rather than environmental. Hivers can survive comfortably in most human habitats, but their silent body language, unusual social instincts, decentralized view of authority, and casual acceptance of Manipulation can create significant misunderstandings with human crews.
-
-
 ---
 ## Full Rules:
 

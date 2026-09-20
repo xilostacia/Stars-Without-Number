@@ -85,11 +85,6 @@ An Aezorgh might be a merchant, engineer, scientist, thief, doctor, scout, couri
 
 Young adults travelling away from their bands are particularly common among those encountered aboard ships. For many Aezorgh, spending several years wandering through unfamiliar systems is not evidence that something went wrong with their life. It may simply be what they were expected to do with it.
 
-## Playability
-Aezorgh are fully suitable as player characters.
-
-They are physically weaker than most humans but considerably more dexterous, with excellent awareness and unusually high potential intelligence. Their four arms and adhesive climbing adaptations make them particularly distinctive in exploration, technical work, infiltration, and zero-gravity environments. Traveller's published rules represent this through high Dexterity and Intelligence, four usable arms, infrared perception, enhanced situational awareness, and unrestricted movement across walls and ceilings under normal gravity.
-
 ---
 ## Full Rules
 JTAS Volume 11 (Do Not Own)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Vegan.md",
+                "file": "Species/Kynari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vegan"
+              "title": "Kynari"
             }
           }
         ]
@@ -190,30 +190,31 @@
   },
   "active": "4062d9354ee14110",
   "lastOpenFiles": [
-    "Species/Roswells.md",
-    "Species/Images/Roswells.png",
-    "Species/Images/ChatGPT Image Sep 18, 2026, 11_33_24 PM.png",
-    "Species/Hivers.md",
-    "Species/Images/Hiver.png",
-    "Species/Images/ChatGPT Image Sep 18, 2026, 10_56_31 PM.png",
-    "Species/Githiaskio.md",
-    "Species/Images/Githiaskio.png",
-    "Species/Images/ChatGPT Image Sep 18, 2026, 10_49_57 PM.png",
-    "Species/G'naak.md",
-    "Species/Chorus.md",
-    "Species/Aezorgh.md",
-    "Species/Images/Aezorgh.png",
-    "Species/Images/ChatGPT Image Sep 18, 2026, 10_16_22 PM.png",
-    "Species/Images",
-    "Species/Kynari.md",
     "Species/Human.md",
-    "Species/K'kree.md",
+    "Species/Hivers.md",
+    "Species/Githiaskio.md",
+    "Species/Aezorgh.md",
+    "Species/NPC Species/Chorus.md",
+    "Species/NPC Species/G'naak.md",
+    "Species/NPC Species/K'kree.md",
+    "Species/NPC Species",
+    "Species/Kynari.md",
     "Species/Raukha.md",
-    "Species/Vegan.md",
+    "Species/Roswells.md",
+    "Species/Vegans.md",
+    "Species/Images/Vegans.png",
+    "Species/Images/ChatGPT Image Sep 19, 2026, 09_59_22 PM.png",
+    "Species/Images/ChatGPT Image Sep 19, 2026, 08_55_38 PM.png",
+    "Species/Images/K'kree.png",
+    "Species/Images/ChatGPT Image Sep 19, 2026, 08_40_30 PM.png",
+    "Species/Images/G'naak.png",
+    "Species/Images/ChatGPT Image Sep 19, 2026, 07_54_15 PM.png",
+    "Species/Images/Chorus.png",
+    "Species/Images/Raukha.png",
+    "Species/Images/ChatGPT Image Sep 19, 2026, 07_43_34 PM.png",
+    "Species/Images",
     "Hive Federation.md",
     "Organizations/Biotechnology, Medicine & Cybernetics/Neogen.md",
-    "Webpages/Colonial Band.png",
-    "Webpages/Overwatch Pact.png",
     "Organizations/Agriculture & Food/Popotas Society.md",
     "Organizations/Defense, Security & Military Industry/Overwatch Pact.md",
     "Organizations/Defense, Security & Military Industry/Magnus.md",
@@ -233,7 +234,6 @@
     "Organizations/Transportation, Shipping & Logistics",
     "Organizations/Resources, Mining & Salvage",
     "Organizations/Infrastructure, Habitats & Construction",
-    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing",
-    "Organizations/Defense, Security & Military Industry"
+    "Organizations/Shipbuilding, Aerospace, Heavy Industry & Manufacturing"
   ]
 }

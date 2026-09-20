@@ -1,7 +1,0 @@
-- Large predatory sophonts historically associated with the K'kree.
-- They evolved from predators that hunted creatures related to the ancestors of the K'kree, producing an unusually direct predator-prey relationship between two sapient species.
-- They possess noticeable anatomical similarities to the K'kree while having forward-facing sensory adaptations, predatory anatomy, and behavior suited to stalking and hunting.
-- The word **G'naak** became so culturally important to the K'kree that it is also associated with their broader concepts of predators and meat-eaters.
-- The K'kree attempted to eliminate them historically but **did not succeed**. G'naak still exist as their own people.
-- Relations between the two species remain extraordinarily hostile.
-- Known but **nonplayable**.
