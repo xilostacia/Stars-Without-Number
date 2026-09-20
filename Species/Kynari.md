@@ -1,4 +1,4 @@
-img
+![[Kynari.png]]
 
 The **Kynari** are a widespread starfaring alien species known for strong social instincts, highly personal loyalties, rapidly shifting hierarchies, and cultures in which reputation often matters as much as formal authority. Their civilizations are old, widespread, and politically fragmented, producing everything from stable planetary governments and commercial powers to mercenary fleets, wandering communities, criminal organizations, and independent starship crews.
 
