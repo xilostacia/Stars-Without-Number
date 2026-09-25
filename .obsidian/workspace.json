@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Raukha.md",
+                "file": "Species/Human.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raukha"
+              "title": "Human"
             }
           }
         ]
@@ -188,18 +188,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "4062d9354ee14110",
+  "active": "8824e940745a37b7",
   "lastOpenFiles": [
+    "Species/Images/Human.png",
+    "Species/Images/ChatGPT Image Sep 24, 2026, 06_07_09 AM.png",
+    "Organizations/Transportation, Shipping & Logistics/Groom Lake.md",
+    "Organizations/Transportation, Shipping & Logistics/Haldek.md",
+    "Species/Raukha.md",
+    "Webpages/Groom Lake.png",
+    "Webpages/ChatGPT Image Sep 24, 2026, 04_25_05 AM.png",
     "Species/Kynari.md",
     "Species/Aezorgh.md",
     "Species/Vegans.md",
     "Species/Githiaskio.md",
     "Species/Roswells.md",
-    "Species/Raukha.md",
     "Species/NPC Species/K'kree.md",
     "Species/NPC Species/G'naak.md",
     "Species/NPC Species/Chorus.md",
-    "Organizations/Transportation, Shipping & Logistics/Haldek.md",
     "Organizations/Transportation, Shipping & Logistics/Orrego Transit.md",
     "Webpages/Haldek.png",
     "Webpages/ChatGPT Image Sep 20, 2026, 05_34_35 AM.png",
@@ -211,9 +216,6 @@
     "Species/Images/Vegans.png",
     "Species/Images/ChatGPT Image Sep 19, 2026, 09_59_22 PM.png",
     "Species/Images/ChatGPT Image Sep 19, 2026, 08_55_38 PM.png",
-    "Species/Images/K'kree.png",
-    "Species/Images/ChatGPT Image Sep 19, 2026, 08_40_30 PM.png",
-    "Species/Images/G'naak.png",
     "Species/Images",
     "Hive Federation.md",
     "Organizations/Biotechnology, Medicine & Cybernetics/Neogen.md",
@@ -226,8 +228,6 @@
     "Organizations/Defense, Security & Military Industry/Fazal-mahmood Outfit.md",
     "Organizations/Defense, Security & Military Industry/Hsiang Systems.md",
     "Organizations/Defense, Security & Military Industry/Hsiang Enterprises.md",
-    "Organizations/Biotechnology, Medicine & Cybernetics/Guo Yin Company.md",
-    "Species/Kynarissssssss.md",
     "Species",
     "Logos",
     "Organizations/Entertainment, Hospitality & Luxury",
