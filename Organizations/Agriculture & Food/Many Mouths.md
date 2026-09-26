@@ -1,0 +1,15 @@
+
+![[Many Mouths.png]]
+
+
+**Many Mouths** is a small multisystem food company specializing in **alien cuisine prepared for mixed-species customers**. Rather than operating full restaurants, the company runs compact walk-up stalls in starports, station markets, transit hubs, industrial districts, and other places with heavy interspecies traffic. Locations usually consist of a small kitchen, counter seating, and enough equipment for the vendor to prepare each meal to order.
+
+The company built its reputation around serving two overlapping markets. Human customers come to Many Mouths to try food originating with other species, while alien travelers use the stalls for familiar meals that can be difficult to find outside their own communities. Recipes are adjusted where necessary for cross-species consumption, particularly when an ingredient that is harmless to one species is unsuitable for another. Many Mouths distinguishes between authentic preparations and adapted versions rather than pretending the two are identical.
+
+Its most recognizable human crossover dishes are based on **[[Roswells|Roswell]] cuisine**. **Roswell Steak** uses terrestrial beef prepared with Roswell marinades, mineral salts, and fermented seasonings, while the **Roswell Burger** combines beef and cheese with silverleaf, mooncap relish, and black brine instead of traditional Earth toppings. Both have become popular enough that many customers encounter Roswell-inspired food through Many Mouths before ever meeting a Roswell cook.
+
+The menu varies considerably between locations. **[[Kynari]]** dishes generally emphasize roasted meats, smoked seasonings, broths, and substantial portions, while **[[Raukha]]** meals favor heavily cooked meats, roots, stews, and strongly seasoned preparations. **[[Vegans]]** contribute a range of naturally plant-based dishes built around cultivated grains, vegetables, fermented ingredients, seed pastes, and aromatic oils, with recipes adapted where necessary for human digestion.
+
+The company is also known for introducing humans to several foods associated with the **[[Aezorgh]]**. The best known is **Aezorgh Cracklefruit**, a small roasted food with a salty, crisp texture that became unexpectedly popular outside Aezorgh communities. Many Mouths treats Aezorgh cuisine as something of a wildcard on its menus, with individual stalls frequently rotating unusual dishes depending on what ingredients are locally available.
+
+Many Mouths deliberately keeps its locations small and informal. There are no elaborate dining rooms, standardized table service, or luxury locations. A typical stall may seat humans, Kynari, Roswells, Aezorgh, and other travelers shoulder to shoulder while a single cook prepares meals behind the counter. The company's bright **many-mouthed axolotl-like mascot** has consequently become a familiar sight in busy mixed-species ports, usually accompanied by the simple slogan: **Alien food for whoever's hungry.**
